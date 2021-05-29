@@ -119,8 +119,8 @@ class ArcherTest {
         assertEquals(FULL_HP_FIRST_LEVEL + 50, archer.hp);
         assertEquals(60, archer.mana);
         assertEquals(30, archer.s);
-        assertEquals(160, archer.a);
-        assertEquals(60, archer.i);
+        assertEquals(180, archer.a);
+        assertEquals(40, archer.i);
 
     }
 
